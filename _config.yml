@@ -9,13 +9,13 @@ name: Jennifer (Jen) Lopez
 
 # CUSTOMIZE
 # Short bio or description about you (displayed in the header)
-description: Aspiring Software Engineer who enjoys medical dramas, dog walks, and Humans of NY
+description: Aspiring Software Engineer who enjoys Medical dramas, Dog walks, and Humans of NY
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://i.pinimg.com/originals/99/31/8d/99318d8ed749f506a787e78b56fa895a.jpg
 # fallback text in case image is not served and/or for screen readers
-avatar_alt_text: Avatar
+avatar_alt_text: Eeyore Avatar
 
 # CUSTOMIZE
 #
