@@ -13,7 +13,7 @@ description: Aspiring Software Engineer who enjoys medical dramas, dog walks, an
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars1.githubusercontent.com/u/46607804?s=200&v=4
+avatar: https://i.pinimg.com/originals/99/31/8d/99318d8ed749f506a787e78b56fa895a.jpg
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 
@@ -50,7 +50,7 @@ url: "https://nyu-ossd-s20.github.io/Jen-Lopez-weekly"
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/Jen-Lopez-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
