@@ -20,6 +20,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 7   | [Changeset Link](https://www.openstreetmap.org/changeset/80709335#map=19/40.73551/-73.92142)    | OpenStreet Map Feature    |   Added a popular MTA bus stop    |
 |     |     |     |      |
 |     |     |     |      |
