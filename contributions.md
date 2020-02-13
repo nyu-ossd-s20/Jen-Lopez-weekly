@@ -22,4 +22,4 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Feb 7   | [Changeset Link](https://www.openstreetmap.org/changeset/80709335#map=19/40.73551/-73.92142)    | OpenStreet Map Feature    |   Added a popular MTA bus stop    |
 |Feb 7| [Changeset Link](https://www.openstreetmap.org/changeset/80709728)    |  OpenStreet Map Feature   | Added Coffee Shop      |
-|     |     |     |      |
+|Feb 12| [Github Pull Request](https://github.com/joannakl/ossd_s20/pull/13)    |  Course Website   | Fixed a typo in an extension group's teamname    |
