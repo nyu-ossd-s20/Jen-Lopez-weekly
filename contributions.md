@@ -25,3 +25,4 @@ Replace the first row with your own contribution.
 |Feb 12| [GitHub Pull Request](https://github.com/joannakl/ossd_s20/pull/13)    |  Course Website   | Fixed a typo in an extension group's teamname    |
 |Feb 18|[Changeset Link](https://www.openstreetmap.org/changeset/81181716)| OpenStreet Map Feature| Added pizzeria|
 |Feb 22|[Changeset Link](https://www.openstreetmap.org/changeset/81358750)| OpenStreet Map Feature| Updated student dorm name and added number of floors|
+|Feb 25|[Changeset Link](https://www.openstreetmap.org/changeset/81465078)| OpenStreet Map Feature| Added Bagel Shop in Gramercy Area|
