@@ -28,3 +28,4 @@ Replace the first row with your own contribution.
 |Feb 25|[Changeset Link](https://www.openstreetmap.org/changeset/81465078)| OpenStreet Map Feature| Added Bagel Shop in Gramercy Area|
 |March 1|[Changeset Link](https://www.openstreetmap.org/changeset/81656575)| OpenStreet Map Feature| Added Dunkin Donuts in Gramercy Area|
 |March 4|[Changeset Link](https://www.openstreetmap.org/changeset/81783364)| OpenStreet Map Feature| Removed clothing store that shut down months ago |
+|March 14|[Changeset Link](https://www.openstreetmap.org/changeset/82200230)| OpenStreet Map Feature| Removed Duane Reade Pharmacy that shut down |
