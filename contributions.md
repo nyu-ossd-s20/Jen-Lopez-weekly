@@ -31,4 +31,5 @@ Replace the first row with your own contribution.
 |March 14|[Changeset Link](https://www.openstreetmap.org/changeset/82200230)| OpenStreet Map Feature| Removed Duane Reade Pharmacy that shut down |
 |March 19|[Changeset Link](https://www.openstreetmap.org/changeset/82404767)| OpenStreet Map Feature| Added NYU LaGuardia Co-op|
 |March 21|[Changeset Link](https://www.openstreetmap.org/changeset/82470375)| OpenStreet Map Feature| Added Pizza Hut Express|
+|March 24|[GitHub Issue](https://github.com/nyu-ossd-s20/alifafaruk-weekly/issues/3)| GitHub (alifafaruk)| Suggested using markdown for links and brought up typo|
 
