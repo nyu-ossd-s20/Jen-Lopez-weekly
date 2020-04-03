@@ -32,4 +32,5 @@ Replace the first row with your own contribution.
 |March 19|[Changeset Link](https://www.openstreetmap.org/changeset/82404767)| OpenStreet Map Feature| Added NYU LaGuardia Co-op|
 |March 21|[Changeset Link](https://www.openstreetmap.org/changeset/82470375)| OpenStreet Map Feature| Added Pizza Hut Express|
 |March 24|[GitHub Issue](https://github.com/nyu-ossd-s20/alifafaruk-weekly/issues/3)| GitHub (alifafaruk)| Suggested using markdown for links and brought up typo|
+|April 3|[GitHub Issue](https://github.com/nyu-ossd-s20/lucasortizny-weekly/issues/2)| GitHub (lucasortizny)| Blog profile picture is not rendered. Possible broken link.|
 
