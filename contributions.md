@@ -34,7 +34,7 @@ Replace the first row with your own contribution.
 |March 24|[GitHub Issue](https://github.com/nyu-ossd-s20/alifafaruk-weekly/issues/3)| GitHub (alifafaruk)| Suggested using markdown for links and brought up typo|
 |April 3|[GitHub Issue](https://github.com/nyu-ossd-s20/lucasortizny-weekly/issues/2)| GitHub (lucasortizny)| Blog profile picture is not rendered. Possible broken link.|
 |April 10|[Changeset Link](https://www.openstreetmap.org/changeset/83374480)| OpenStreet Map Feature| Added Lunetta's Pizzeria|
-
+|April 15|[Wiki Link](https://en.wikipedia.org/w/index.php?title=7_(New_York_City_Subway_service)&action=history)| Wiki Edit| Simplified sentence, making it easier to read|
 
 
 
