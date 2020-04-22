@@ -37,4 +37,5 @@ Replace the first row with your own contribution.
 |April 15|[Wiki Link](https://en.wikipedia.org/w/index.php?title=7_(New_York_City_Subway_service)&action=history)| Wiki Edit| Simplified sentence, making it easier to read|
 |April 17|[Wiki Link](https://en.wikipedia.org/w/index.php?title=Law_%26_Order:_Special_Victims_Unit&action=history)| Wiki Edit| Fixed comma misuse|
 |April 19|[Wiki Link](https://en.wikipedia.org/w/index.php?title=Law_%26_Order:_Special_Victims_Unit&action=history)| Wiki Edit|Fixed punctuation and cleaned up run-on sentences|
+|April 22|[Changeset Link](https://www.openstreetmap.org/changeset/83912037)| OpenStreet Map Feature| Updated location of a Marshall's store|
 
