@@ -40,4 +40,5 @@ Replace the first row with your own contribution.
 |April 22|[Changeset Link](https://www.openstreetmap.org/changeset/83912037)| OpenStreet Map Feature| Updated location of a Marshall's store|
 |April 24|[Wiki Link](https://en.wikipedia.org/w/index.php?title=Monk_(TV_series)&action=history)| Wiki Edit| Added a few more details to a TV show|
 |April 28|[Changeset Link](https://www.openstreetmap.org/changeset/84289689)|OpenStreet Map Feature|Removed a Movie Theater that shut down years ago|
+|May 1|[Changeset Link](https://www.openstreetmap.org/changeset/84481656)|OpenStreet Map Feature|Removed Gamestop that shut down permanently|
 
