@@ -42,4 +42,6 @@ Replace the first row with your own contribution.
 |April 28|[Changeset Link](https://www.openstreetmap.org/changeset/84289689)|OpenStreet Map Feature|Removed a Movie Theater that shut down years ago|
 |May 1|[Changeset Link](https://www.openstreetmap.org/changeset/84481656)|OpenStreet Map Feature|Removed Gamestop that shut down permanently|
 |May 4|[Wiki Link](https://en.wikipedia.org/w/index.php?title=Monk_(TV_series)&action=history)|Wiki Edit|Fixed more grammatical errors on a tv show's wiki|
+|May 8|[Changeset Link](https://www.openstreetmap.org/changeset/84909792)|OpenStreet Map Feature|Removed Clothing store that shut down|
+
 
