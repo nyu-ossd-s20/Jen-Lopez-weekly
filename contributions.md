@@ -43,5 +43,6 @@ Replace the first row with your own contribution.
 |May 1|[Changeset Link](https://www.openstreetmap.org/changeset/84481656)|OpenStreet Map Feature|Removed Gamestop that shut down permanently|
 |May 4|[Wiki Link](https://en.wikipedia.org/w/index.php?title=Monk_(TV_series)&action=history)|Wiki Edit|Fixed more grammatical errors on a tv show's wiki|
 |May 8|[Changeset Link](https://www.openstreetmap.org/changeset/84909792)|OpenStreet Map Feature|Removed Clothing store that shut down|
+|May 13|[Changeset Link](https://www.openstreetmap.org/changeset/85161593)|OpenStreet Map Feature|Added Mattress Firm store|
 
 
